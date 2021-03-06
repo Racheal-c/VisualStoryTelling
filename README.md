@@ -1,4 +1,4 @@
 # Visual Story Telling 
-A site that share visual notes of tech stuffs
+A site that shares visual notes of tech stuff.
 
 A complete blog posts at https://rachealclive.wordpress.com/
